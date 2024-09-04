@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevRafaelM
 - 👀 I’m interested in creating and developing games
-- 🌱 I’m currently learning blueprint
+- 🌱 I’m currently learning unreal engine blueprint
 - 💞️ I’m looking to collaborate on game dev
 - 📫 How to reach me email me gamedesignerrafael@gmail.com
 - 😄 Pronouns: he/him
